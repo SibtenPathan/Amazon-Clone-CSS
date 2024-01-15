@@ -1,2 +1,2 @@
 # Amazon-Clone-CSS
-Amazon clone made with only HTML and CSS
+Hello my name is Pathan Sibten I have made an Amazon clone project (only frontend) which includes HTML and CSS code.
